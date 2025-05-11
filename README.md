@@ -2,18 +2,13 @@
 
 ##### Making And Breaking Software
 
-I am currently working on LupineVault, Infintium AI, and a game in [PICO-8](https://www.pico-8.com/)
+I am currently working on [LupineVault](https://lupinevault.com), [RED](https://lupine.red), and [AXIOM](https://useaxiom.net)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tf7software&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rhenryw&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tf7software&theme=dark)](https://github.com/anuraghazra/github-readme-stats)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tf7software&layout=compact&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhenryw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhenryw&layout=compact&theme=dark)
 
 
-### We Are The Creator of The Tapioca AI Series
-
-#### Some repos may not live for long, due to DMCA Takedowns, so copy our repos while you can!
-
-The old "Liberators" and "TF7-4's" have been discontinued due to repeated DMCA takedowns.
 
 
 
